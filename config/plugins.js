@@ -16,6 +16,9 @@ module.exports = ({ env }) => ({
         upload: {
           folder: "atherma",
         },
+        uploadStream: {
+          folder: "atherma",
+        },
         delete: {},
       },
     },
